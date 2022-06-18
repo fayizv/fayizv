@@ -1,4 +1,4 @@
-v<h1 align="center">
+<h1 align="center">
   <b>Fayiz V</b>
 </h1>
 
