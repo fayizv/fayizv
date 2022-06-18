@@ -48,6 +48,8 @@ if __name__ == '__main__':
 </div>
 -->
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 ## My Statistics
 
 <br/>
@@ -57,6 +59,10 @@ if __name__ == '__main__':
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayiz&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<p align="center">
+<img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayizv&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+</p>
+
 <br>
 
 [![Fayiz V Activity Graph](https://activity-graph.herokuapp.com/graph?username=fayiz&custom_title=Fayiz%20V%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fayizv.github.io/Personal-Website/)
