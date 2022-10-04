@@ -67,3 +67,5 @@ if __name__ == '__main__':
 <br>
 
 [![Fayiz V Activity Graph](https://activity-graph.herokuapp.com/graph?username=fayiz&custom_title=Fayiz%20V%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fayizv.github.io/Personal-Website/)
+
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Fayiz V WakaTime Activity" align=center/></a>
