@@ -12,6 +12,7 @@ Heya! Fayiz V, a student currently living in Kerala, India. I'm learning program
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Django-98b982?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-DevOps-c58545?style=for-the-badge&logo=Azure DevOps&logoColor=c58545&labelColor=282828">
 </div>
 </p>
