@@ -16,7 +16,7 @@ Heya! Fayiz V, a student currently living in Kerala, India. I'm learning program
   <img src="https://img.shields.io/badge/-DevOps-7b0a2e?style=for-the-badge&logo=DevOps&logoColor=7b0a2e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Doker-7b0a2e?style=for-the-badge&logo=Docker&logoColor=7b0a2e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Kubernates-7b0a2e?style=for-the-badge&logo=k8s&logoColor=7b0a2e&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Jenkins-7b0a2e?style=for-the-badge&logo=Jenkins&logoColor=e31219&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jenkins-e31219?style=for-the-badge&logo=Jenkins&logoColor=e31219&labelColor=faf7f7">
 </div>
 </p>
 
