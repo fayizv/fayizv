@@ -60,7 +60,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://fayizv.github.io/Personal-Website/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fayizv&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayiz&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayizv&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <p align="center">
