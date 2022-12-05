@@ -27,7 +27,7 @@ class fayiz_v():
     self.name = "Fayiz V";
     self.username = "fayizv";
     self.location = "Kerala, India";
-    self.linkedin = "https://www.linkedin.com/in/muhammed-fayiz-v-b46684223";
+    self.linkedin = "https://www.linkedin.com/in/fayiz-v/";
     self.web = "https://fayizv.github.io/Personal-Website/";
   
   def __str__(self):
