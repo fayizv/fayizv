@@ -13,7 +13,7 @@ Heya! Fayiz V, a student currently living in Kerala, India. I'm learning program
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Python-1d755b?style=for-the-badge&logo=python&logoColor=1d755b&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Django-165206?style=for-the-badge&logo=django&logoColor=165206&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-DevOps-f5820f?style=for-the-badge&logo=DevOps&logoColor=f5820f&labelColor=faf7f7">
+  <img src="https://img.shields.io/badge/-postgresql-f5820f?style=for-the-badge&logo=postgresql&logoColor=f5820f&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Doker-1358d6?style=for-the-badge&logo=Docker&logoColor=1358d6&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Jenkins-e31219?style=for-the-badge&logo=Jenkins&logoColor=e31219&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Kubernetes-47b3de?style=for-the-badge&logo=kubernetes&logoColor=47b3de&labelColor=faf7f7">
