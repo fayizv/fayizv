@@ -18,6 +18,7 @@ Heya! Fayiz V, a student currently living in Kerala, India. I'm learning program
   <img src="https://img.shields.io/badge/-Jenkins-e31219?style=for-the-badge&logo=Jenkins&logoColor=e31219&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Kubernetes-47b3de?style=for-the-badge&logo=kubernetes&logoColor=47b3de&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-SonarQube-352d45?style=for-the-badge&logo=SonarQube&logoColor=352d45&labelColor=faf7f7">
+  <img src="https://img.shields.io/badge/-AWS-d1a01f?style=for-the-badge&logo=AWS&logoColor=d1a01f&labelColor=faf7f7">
 </div>
 </p>
 
