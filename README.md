@@ -10,7 +10,7 @@ Heya! Fayiz V, a student currently living in Kerala, India. I'm learning program
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-CSS-771cd2?style=for-the-badge&logo=css3&logoColor=771cd2&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Java-d1a01f?style=for-the-badge&logo=java&logoColor=d1a01f&labelColor=faf7f7">
+  <img src="https://img.shields.io/badge/-Java-d1a01f?style=for-the-badge&logo=Java&logoColor=d1a01f&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Python-1d755b?style=for-the-badge&logo=python&logoColor=1d755b&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Django-165206?style=for-the-badge&logo=django&logoColor=165206&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-postgresql-f5820f?style=for-the-badge&logo=postgresql&logoColor=f5820f&labelColor=faf7f7">
