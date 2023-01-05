@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Fayiz V</b>
+  <b>Muhammed Fayiz V</b>
 </h1>
 
-Heya! Fayiz V, A self-taught DevOps engineer with hands-onexperience in different tools and deploying web applications using various methods. And always willing to learn new technologies in the DevOps industry.Currently living in Kerala, India.
+Heya! Muhammed Fayiz V, A self-taught DevOps engineer with hands-onexperience in different tools and deploying web applications using various methods. And always willing to learn new technologies in the DevOps industry.Currently living in Kerala, India.
 
 <br>
 
