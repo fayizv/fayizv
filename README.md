@@ -2,7 +2,7 @@
   <b>Fayiz V</b>
 </h1>
 
-Heya! Fayiz V, a student currently living in Kerala, India. I'm learning programming through small projects  on the side.
+Heya! Fayiz V, A self-taught DevOps engineer with hands-onexperience in different tools and deploying web applications using various methods. And always willing to learn new technologies in the DevOps industry.Currently living in Kerala, India.
 
 <br>
 
