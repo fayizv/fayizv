@@ -21,7 +21,7 @@ Heya! Muhammed Fayiz V, A self-taught DevOps engineer with hands-onexperience in
   <img src="https://img.shields.io/badge/-AWS-d1a01f?style=for-the-badge&logo=Amazon&logoColor=d1a01f&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Terraform-7660bf?style=for-the-badge&logo=Terraform&logoColor=7660bf&labelColor=faf7f7">
   <img src="https://img.shields.io/badge/-Istio-2a9df5?style=for-the-badge&logo=Istio&logoColor=2a9df5&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Shell Script-111212?style=for-the-badge&logo=shell_script&logoColor=111212&labelColor=faf7f7">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 </div>
 </p>
