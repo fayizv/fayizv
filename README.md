@@ -26,7 +26,7 @@ Heya! Muhammed Fayiz V, A self-taught DevOps engineer with hands-onexperience in
 </div>
 </p>
 
-python
+<!-- python
 class fayiz_v():
     
   def __init__(self):
@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
 
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) -->
 
 ## My Statistics
 
