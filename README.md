@@ -26,7 +26,7 @@ Heya! Muhammed Fayiz V, A self-taught DevOps engineer with hands-onexperience in
 </div>
 </p>
 
-```python
+python
 class fayiz_v():
     
   def __init__(self):
@@ -34,14 +34,14 @@ class fayiz_v():
     self.username = "fayizv";
     self.location = "Kerala, India";
     self.linkedin = "https://www.linkedin.com/in/fayiz-v/";
-    self.web = "https://fayizv.github.io/Personal-Website/";
+    self.web = " https://fayizv.github.io/personal-website/";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
     me = fayiz_v()
-```
+
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
