@@ -40,17 +40,17 @@ class fayiz_v():
     return self.name
 
 if __name__ == '__main__':
-    me = fayiz_v()
+    me = fayiz_v() -->
 
 
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 ## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://fayizv.github.io/Personal-Website/">
+  <a href="https://fayizv.github.io/personal-website/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fayizv&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayizv&theme=gruvbox&hide_border=true" />
   </a>
