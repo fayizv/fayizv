@@ -96,14 +96,13 @@ I enjoy building reliable infrastructure, automating deployments, improving appl
 
 ---
 
-### 🐍 Contribution Snake
+<h2>🐍 My Contributions</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="github-snake.svg">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/fayizv/fayizv/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
