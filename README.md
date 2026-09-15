@@ -2,63 +2,132 @@
   <b>Muhammed Fayiz V</b>
 </h1>
 
-Heya! Muhammed Fayiz V, A self-taught DevOps engineer with hands-onexperience in different tools and deploying web applications using various methods. And always willing to learn new technologies in the DevOps industry.Currently living in Kerala, India.
+<h3 align="center">
+  Sr.DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+</h3>
 
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-CSS-771cd2?style=for-the-badge&logo=css3&logoColor=771cd2&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Java-d1a01f?style=for-the-badge&logo=Java&logoColor=d1a01f&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Python-1d755b?style=for-the-badge&logo=python&logoColor=1d755b&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Django-165206?style=for-the-badge&logo=django&logoColor=165206&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-postgresql-f5820f?style=for-the-badge&logo=postgresql&logoColor=f5820f&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Doker-1358d6?style=for-the-badge&logo=Docker&logoColor=1358d6&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Jenkins-e31219?style=for-the-badge&logo=Jenkins&logoColor=e31219&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Kubernetes-47b3de?style=for-the-badge&logo=kubernetes&logoColor=47b3de&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-SonarQube-352d45?style=for-the-badge&logo=SonarQube&logoColor=352d45&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-AWS-d1a01f?style=for-the-badge&logo=Amazon&logoColor=d1a01f&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Terraform-7660bf?style=for-the-badge&logo=Terraform&logoColor=7660bf&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/-Istio-2a9df5?style=for-the-badge&logo=Istio&logoColor=2a9df5&labelColor=faf7f7">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/-sentry-5d3954?style=for-the-badge&logo=sentry&logoColor=5d3954&labelColor=faf7f7">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fayizv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<!-- python
-class fayiz_v():
-    
-  def __init__(self):
-    self.name = "Fayiz V";
-    self.username = "fayizv";
-    self.location = "Kerala, India";
-    self.linkedin = "https://www.linkedin.com/in/fayiz-v/";
-    self.web = " https://fayizv.github.io/personal-website/";
-  
-  def __str__(self):
-    return self.name
+---
 
-if __name__ == '__main__':
-    me = fayiz_v() -->
+### 👨‍💻 About Me
 
+Hey! I'm **Muhammed Fayiz V**, a self-taught DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, containerization, monitoring, and deploying web applications.
 
+I enjoy building reliable infrastructure, automating deployments, improving application delivery, and learning new technologies in the DevOps ecosystem.
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+📍 **Kerala, India**
 
-## My Statistics
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 <br/>
-<p align="left">
-  <a href="https://fayizv.github.io/personal-website/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fayizv&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayizv&theme=gruvbox&hide_border=true" />
-  </a>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
+
+---
+
+### 🚀 DevOps Skills
+
+- ☁️ AWS Cloud Infrastructure
+- 🏗️ Infrastructure as Code with Terraform
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes
+- 🔄 CI/CD with Jenkins & Bitbucket Pipelines
+- 🌐 Nginx & Web Application Deployment
+- 🐧 Linux Server Administration
+- 📊 Monitoring & Troubleshooting
+- 🔐 Security & Access Management
+- 🗄️ PostgreSQL & Redis
+- 🔍 SonarQube & Sentry
+- 📜 Shell Scripting
+- ⚙️ Automation & Deployment
+
+---
+
+### 📊 GitHub Statistics
+
 <p align="center">
-<img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayizv&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fayizv&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=fayizv&theme=gruvbox&hide_border=true" />
 </p>
 
-<br>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayizv&layout=compact&theme=gruvbox&langs_count=10&hide_border=true" />
+</p>
 
+---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="github-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/fayizv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fayiz-v/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fayizv.github.io/personal-website/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Automate. Deploy. Monitor. Improve.</b>
+</p>
